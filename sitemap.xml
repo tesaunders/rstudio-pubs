@@ -10,6 +10,12 @@
     <loc>https://tesaunders.github.io/rstudio-pubs/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/images.html</loc>
+  </url>
+  <url>
     <loc>https://tesaunders.github.io/rstudio-pubs/index.html</loc>
   </url>
   <url>
@@ -22,10 +28,22 @@
     <loc>https://tesaunders.github.io/rstudio-pubs/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://tesaunders.github.io/rstudio-pubs/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://tesaunders.github.io/rstudio-pubs/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://tesaunders.github.io/rstudio-pubs/instructor/profiles.html</loc>
@@ -34,7 +52,13 @@
     <loc>https://tesaunders.github.io/rstudio-pubs/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://tesaunders.github.io/rstudio-pubs/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://tesaunders.github.io/rstudio-pubs/key-points.html</loc>
   </url>
   <url>
     <loc>https://tesaunders.github.io/rstudio-pubs/profiles.html</loc>
